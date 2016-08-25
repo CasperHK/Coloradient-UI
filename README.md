@@ -1,2 +1,2 @@
 # Coloradient-UI
-A set of react component implementing Coloradient UI.
+A set of react components implementing Coloradient UI.
